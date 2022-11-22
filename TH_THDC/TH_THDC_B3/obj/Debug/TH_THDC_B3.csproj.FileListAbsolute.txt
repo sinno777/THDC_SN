@@ -1,0 +1,5 @@
+D:\TH_THDC\TH_THDC_B3\bin\Debug\TH_THDC_B3.exe.config
+D:\TH_THDC\TH_THDC_B3\bin\Debug\TH_THDC_B3.exe
+D:\TH_THDC\TH_THDC_B3\bin\Debug\TH_THDC_B3.pdb
+D:\TH_THDC\TH_THDC_B3\obj\Debug\TH_THDC_B3.exe
+D:\TH_THDC\TH_THDC_B3\obj\Debug\TH_THDC_B3.pdb

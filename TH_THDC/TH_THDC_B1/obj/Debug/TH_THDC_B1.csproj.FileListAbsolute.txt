@@ -1,0 +1,12 @@
+D:\TH_THDC\TH_THDC_B1\bin\Debug\TH_THDC_B1.exe.config
+D:\TH_THDC\TH_THDC_B1\obj\Debug\TH_THDC_B1.csprojResolveAssemblyReference.cache
+D:\TH_THDC\TH_THDC_B1\bin\Debug\TH_THDC_B1.exe
+D:\TH_THDC\TH_THDC_B1\bin\Debug\TH_THDC_B1.pdb
+D:\TH_THDC\TH_THDC_B1\obj\Debug\TH_THDC_B1.exe
+D:\TH_THDC\TH_THDC_B1\obj\Debug\TH_THDC_B1.pdb
+D:\httt2211\TH_THDC\TH_THDC_B1\bin\Debug\TH_THDC_B1.exe.config
+D:\httt2211\TH_THDC\TH_THDC_B1\obj\Debug\TH_THDC_B1.exe
+D:\httt2211\TH_THDC\TH_THDC_B1\obj\Debug\TH_THDC_B1.pdb
+D:\httt2211\TH_THDC\TH_THDC_B1\bin\Debug\TH_THDC_B1.exe
+D:\httt2211\TH_THDC\TH_THDC_B1\bin\Debug\TH_THDC_B1.pdb
+D:\httt2211\TH_THDC\TH_THDC_B1\obj\Debug\TH_THDC_B1.csprojResolveAssemblyReference.cache

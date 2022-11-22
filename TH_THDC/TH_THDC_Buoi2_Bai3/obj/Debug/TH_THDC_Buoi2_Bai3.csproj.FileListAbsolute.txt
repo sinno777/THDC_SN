@@ -1,0 +1,11 @@
+D:\httt2211\TH_THDC\TH_THDC_Buoi2_Bai3\bin\Debug\TH_THDC_Buoi2_Bai3.exe.config
+D:\httt2211\TH_THDC\TH_THDC_Buoi2_Bai3\bin\Debug\TH_THDC_Buoi2_Bai3.exe
+D:\httt2211\TH_THDC\TH_THDC_Buoi2_Bai3\bin\Debug\TH_THDC_Buoi2_Bai3.pdb
+D:\httt2211\TH_THDC\TH_THDC_Buoi2_Bai3\obj\Debug\TH_THDC_Buoi2_Bai3.exe
+D:\httt2211\TH_THDC\TH_THDC_Buoi2_Bai3\obj\Debug\TH_THDC_Buoi2_Bai3.pdb
+D:\TH_THDC\TH_THDC_Buoi2_Bai3\bin\Debug\TH_THDC_Buoi2_Bai3.exe.config
+D:\TH_THDC\TH_THDC_Buoi2_Bai3\obj\Debug\TH_THDC_Buoi2_Bai3.exe
+D:\TH_THDC\TH_THDC_Buoi2_Bai3\obj\Debug\TH_THDC_Buoi2_Bai3.pdb
+D:\TH_THDC\TH_THDC_Buoi2_Bai3\bin\Debug\TH_THDC_Buoi2_Bai3.exe
+D:\TH_THDC\TH_THDC_Buoi2_Bai3\bin\Debug\TH_THDC_Buoi2_Bai3.pdb
+D:\TH_THDC\TH_THDC_Buoi2_Bai3\obj\Debug\TH_THDC_Buoi2_Bai3.csprojResolveAssemblyReference.cache

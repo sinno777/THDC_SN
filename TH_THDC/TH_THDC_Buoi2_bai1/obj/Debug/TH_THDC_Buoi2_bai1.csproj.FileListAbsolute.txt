@@ -1,0 +1,5 @@
+D:\httt2211\TH_THDC\TH_THDC_Buoi2_bai1\bin\Debug\TH_THDC_Buoi2_bai1.exe.config
+D:\httt2211\TH_THDC\TH_THDC_Buoi2_bai1\bin\Debug\TH_THDC_Buoi2_bai1.exe
+D:\httt2211\TH_THDC\TH_THDC_Buoi2_bai1\bin\Debug\TH_THDC_Buoi2_bai1.pdb
+D:\httt2211\TH_THDC\TH_THDC_Buoi2_bai1\obj\Debug\TH_THDC_Buoi2_bai1.exe
+D:\httt2211\TH_THDC\TH_THDC_Buoi2_bai1\obj\Debug\TH_THDC_Buoi2_bai1.pdb
