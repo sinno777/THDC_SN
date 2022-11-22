@@ -11,22 +11,14 @@ namespace TH_THDC_B4_bai2
         static void Main(string[] args)
         {
             // check input
-            bool flag = true;
-            int n = 0;
-            bool reVal; 
+            int n;
+            bool reVal =true; 
             do
             {
                 Console.Write("Import n > 0: ");
                 reVal = int.TryParse(Console.ReadLine(),out n);
-                if (n > 0)
-                {
-                    flag = false;
-                }
-                if (reVal == false)
-                {
-                    flag = false;
-                }
-            } while (flag);
+                
+            } while (!reVal || n < 0);
             // loop arr to search number % 3 = 0 
             for(int i = 1; i <= n; i++)
             {

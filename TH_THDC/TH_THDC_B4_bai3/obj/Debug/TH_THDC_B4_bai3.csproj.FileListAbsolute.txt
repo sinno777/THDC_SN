@@ -1,0 +1,6 @@
+D:\THDC_SN\TH_THDC\TH_THDC_B4_bai3\bin\Debug\TH_THDC_B4_bai3.exe.config
+D:\THDC_SN\TH_THDC\TH_THDC_B4_bai3\bin\Debug\TH_THDC_B4_bai3.exe
+D:\THDC_SN\TH_THDC\TH_THDC_B4_bai3\bin\Debug\TH_THDC_B4_bai3.pdb
+D:\THDC_SN\TH_THDC\TH_THDC_B4_bai3\obj\Debug\TH_THDC_B4_bai3.exe
+D:\THDC_SN\TH_THDC\TH_THDC_B4_bai3\obj\Debug\TH_THDC_B4_bai3.pdb
+D:\THDC_SN\TH_THDC\TH_THDC_B4_bai3\obj\Debug\TH_THDC_B4_bai3.csprojResolveAssemblyReference.cache
